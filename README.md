@@ -1,6 +1,6 @@
-### Olá, eu sou Aliny Melquiades!
+### Olá, sou Aliny Melquiades
 
-🦋 Desenvolvedora Font-end <br>
+🦋 Desenvolvedora Front-end <br>
 🦋 Estudante de Análise e Desenvolvimento de Sistemas
 
 
