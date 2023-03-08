@@ -3,8 +3,10 @@
 🦋 Desenvolvedora Front-end <br>
 🦋 Estudante de Análise e Desenvolvimento de Sistemas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ally-developer&theme=jolly&show_icons=true)
-![jolly_repo](https://github-readme-stats.vercel.app/api/pin/?username=ally-developer&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
+ <a href="https://github.com/ally-developer">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ally-developer&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+ <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ally-developer&layout=compact&langs_count=168&theme=jolly&include_all_commits=true&count_private=true"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
