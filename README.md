@@ -4,6 +4,7 @@
 🦋 Estudante de Análise e Desenvolvimento de Sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ally-developer&theme=jolly&show_icons=true)
+ Margin-bottom: 20px;
 ![jolly_repo](https://github-readme-stats.vercel.app/api/pin/?username=ally-developer&repo=github-readme-stats&cache_seconds=86400&theme=jolly)
 
 <div style="display: inline_block"><br>
