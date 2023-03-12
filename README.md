@@ -23,6 +23,10 @@
   
 </div>
  
- <br> <br/>
+   ![Snake animation](https://github.com/aliny-melquiades/aliny-melquiades/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
 
-![Snake animation](https://github.com/Aliny-Melquiades/Aliny-Melquiades/blob/output/github-contribution-grid-snake.svg)
+
