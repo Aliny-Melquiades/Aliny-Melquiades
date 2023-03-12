@@ -23,7 +23,5 @@
   
 </div>
  
-   ![Snake animation](https://github.com/aliny-melquiades/aliny-melquiades/blob/output/github-contribution-grid-snake.svg)
- 
 
 
