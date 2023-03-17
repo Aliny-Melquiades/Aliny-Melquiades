@@ -1,16 +1,14 @@
 ### Olá, sou Aliny Melquiades!
 
-🦋 Desenvolvedora Front-end <br>
+🦋 Desenvolvedora PHP <br>
 🦋 Estudante de Análise e Desenvolvimento de Sistemas
 
  <a href="https://github.com/aliny-melquiades">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aliny-melquiades&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="Aliny-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    
 </div> 
 
 <br>
