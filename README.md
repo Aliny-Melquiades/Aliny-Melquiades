@@ -1,16 +1,13 @@
 ### Olá, sou Aliny Melquiades!
 
-🐘 Desenvolvedora PHP <br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas
-
- <a href="https://github.com/aliny-melquiades">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=aliny-melquiades&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+🪐 Desenvolvedora Front-End <br>
+🪐Estudante de Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ally-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
  </div>
  
