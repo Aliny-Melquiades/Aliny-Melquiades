@@ -1,6 +1,6 @@
 ### Olá, sou Aliny Melquiades!
 
-🪐Desenvolvedora Front-End <br>
+🪐Futura Desenvolvedora Front-End <br>
 🪐Estudante de Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
