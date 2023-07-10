@@ -1,6 +1,6 @@
 ### Olá, sou Aliny Melquiades!
 
-🪐Estudante de Análise e Desenvolvimento de Sistemas 2/4
+Estudante de Análise e Desenvolvimento de Sistemas 2/4
 
 <div style="display: inline_block"><br>
  
