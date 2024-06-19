@@ -1,7 +1,7 @@
 ### Olá, eu sou a Aliny Melquiades.
 
-☕ Desenvolvedora Java
-🐘 PostgreeSQL
+☕ Desenvolvedora Java <br>
+🐘 PostgreeSQL <br>
 💻 Análise & Desenvolvimento de Sistemas 3/4
 
 
