@@ -2,7 +2,7 @@
 
 ☕ Desenvolvedora Java <br>
 🐘 PostgreeSQL <br>
-💻 Análise & Desenvolvimento de Sistemas 3/4
+💻 Análise & Desenvolvimento de Sistemas 4/4
 
 
 <div style="display: inline_block"><br>
